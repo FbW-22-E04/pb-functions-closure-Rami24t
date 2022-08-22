@@ -1,6 +1,6 @@
-// A closure is when a function is having access to its variables in the parent scope, even after the parent function has closed.
-//a. closure is used in the function inside the function personalDice because it is accessing name variable from the parent function.
-//b. Compare and contrast calling dansRoll the first and second time. What is always the same? What could change?
+// a. closure is when a function is having access to its variables in the parent scope, even after the parent function has closed.
+// closure is used in the function inside the function personalDice because it is accessing name variable from the parent function.
+//b.
 // name still has the value 'Dan' and newRoll has now a new random number between 1 and 6
 //c.
 // The scope of the anonymous function 
